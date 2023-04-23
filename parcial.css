@@ -1,0 +1,119 @@
+html{
+    scroll-behavior: smooth;
+}
+main{
+    background-color: #F6F1E9;
+}
+.link{
+    text-align: center;
+}
+.links{
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    font-style:solid;
+    font-family: Arial;
+    font-size: small;
+    color: black;
+    padding-left: 1cm;
+    padding-right: 1cm;
+    
+    
+}
+
+
+.julian{
+   width: 100%;
+   height: 10cm;
+   background-color: #a4947c;
+}
+.foto{
+    padding-left: 0.5cm;
+}
+.nombre{
+    position: relative;
+    color: #FF8400;
+    font-family: Arial, Helvetica, sans-serif;
+    left: 45%;
+    bottom: 50%;
+}
+.ocupacion{
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    left: 42.5%;
+    bottom: 50%;
+}
+
+
+
+
+
+.datos{
+    
+    height:auto;
+    width: 10cm;
+
+}
+.contacto{
+    padding-left: 0.5cm;
+    color: #FF8400;
+
+}
+
+.ig{
+    position: relative;
+    margin: auto;
+    margin-left: 0.5cm;
+}
+.redes{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: black;
+    
+    
+    
+}
+.linea{
+    background-color: black;
+    width: 5cm;
+    height: 3px;
+    border-radius: 3px;
+    margin-top: 0.5cm;
+    margin-bottom: 0.5cm;
+}
+
+.experiencia{
+    position: relative;
+    left: 13cm;
+    top: -16cm;
+
+}
+.exp{
+    font-size: 5ch;
+    color: #FF8400;
+
+}
+
+
+
+.sobre-mi{
+
+    position: relative;
+    left: 24cm;
+    top: -21.5cm;
+    
+}
+
+.sobre{
+    font-size: 5ch;
+    color: #FF8400;
+
+}
+
+
+
+
+
+
+
